@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "San Francisco";
+    font-weight: 400;
+    src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff");
+  }
+  
+  div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "San Francisco", sans-serif; /* Apply the font here */
+  }
+  
